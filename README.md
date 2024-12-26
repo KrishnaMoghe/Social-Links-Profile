@@ -12,7 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -53,10 +52,4 @@ In future projects, I aim to focus more on:
 - Improving accessibility by following WCAG guidelines.
 - Enhancing responsiveness with more advanced layouts using CSS Grid and media queries.
 - Incorporating animations for better user experience.
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
